@@ -1,0 +1,116 @@
+{
+  "users": {
+    "admin": {
+      "rooms": [
+        "room1",
+        "room2",
+        "Minecraft",
+        "thenewera"
+      ]
+    },
+    "anupam": {
+      "rooms": [
+        "room1",
+        "room2",
+        "Minecraft",
+        "thenewera"
+      ]
+    },
+    "kv1311": {
+      "rooms": [
+        "room1",
+        "room2"
+      ]
+    },
+    "kural": {
+      "rooms": [
+        "room1",
+        "room2"
+      ]
+    }
+  },
+  "rooms": {
+    "room1": {
+      "owner": "admin",
+      "data": [
+        {
+          "username": "admin",
+          "message": "hello Test"
+        },
+        {
+          "username": "anupam",
+          "message": "Hi there?"
+        },
+        {
+          "username": "anupam",
+          "message": "Hi there1232132132132131?"
+        },
+        {
+          "username": "anupam",
+          "message": "Hi there1232132132132131?"
+        },
+        {
+          "username": "anupam",
+          "message": "Hi there1232132132132131?"
+        },
+        {
+          "username": "admin",
+          "message": "H i there"
+        },
+        {
+          "username": "anupam",
+          "message": "hello"
+        },
+        {
+          "username": "anupam",
+          "message": "This is funny"
+        },
+        {
+          "username": "anupam",
+          "message": "Right??"
+        },
+        {
+          "username": "anupam",
+          "message": "i there?"
+        },
+        {
+          "username": "anupam",
+          "message": "Hello"
+        },
+        {
+          "username": "admin",
+          "message": "Yeah man"
+        },
+        {
+          "username": "admin",
+          "message": "wdym funny"
+        },
+        {
+          "username": "admin",
+          "message": "this aint funny"
+        }
+      ]
+    },
+    "room2": {
+      "owner": "admin",
+      "data": [
+        {
+          "username": "admin",
+          "message": "hello Test 2"
+        },
+        {
+          "username": "admin",
+          "message": "again h 2asdsa di"
+        }
+      ]
+    },
+    "Minecraft": {
+      "owner": "anupam",
+      "data": []
+    },
+    "thenewera": {
+      "owner": "anupam",
+      "data": []
+    }
+  }
+}
